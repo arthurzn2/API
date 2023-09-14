@@ -1,79 +1,80 @@
 [
- {
-  "marca": TagHeuer,
-  "modelo": Formula 1,
-  "ano": "2015",
-  "tamanho": "42mm",
-  "material": "caixa e pulseira em aço",
-  "referencia": "WAH1011",
-  "mecanismo": "Quartzo",
-  "mostrador": "branco",
-  "verificado": "SIM",
-  "valor": "R$4.900"	
- },
- 
-
-{
-  "marca": Bvulgari,
-  "modelo": DIAGONO,
-  "ano": "2011",
-  "tamanho": "38mm",
-  "material": "caixa em aço e pulseira em borracha",
-  "referencia": "SD38SGMT",
-  "mecanismo": "Automatico",
-  "mostrador": "Preto",
-  "verificado": "SIM",
-  "valor": "R$10.500"	
- },
-
-{
-  "marca": Rolex,
-  "modelo": SEA-DWELLER,
-  "ano": "2012",
-  "tamanho": "44mm",
-  "material": "caixa e pulseira em aço",
-  "referencia": "116660",
-  "mecanismo": "Automatio",
-  "mostrador": "preto",
-  "verificado": "SIM",
-  "valor": "R$62.000"	
- },
-
-{
-  "marca": TagHeuer,
-  "modelo": CARRERA DATE,
-  "ano": "2007",
-  "tamanho": "41mm",
-  "material": "caixa e pulseira em aço",
-  "referencia": "CV2010",
-  "mecanismo": "Automatico",
-  "mostrador": "preto",
-  "verificado": "SIM",
-  "valor": "R$9.900"	
- },
-
-{
-  "marca": BREITLING,
-  "modelo": B-1 Professional,
-  "ano": "2006",
-  "tamanho": "43mm",
-  "material": "caixa em aço e pulseira em borracha",
-  "referencia": "A78362",
-  "mecanismo": "SuperQuartz",
-  "mostrador": "azul",
-  "verificado": "SIM",
-  "valor": "R$11.900"	
- },
-
-{
-  "marca": MontBlanc,
-  "modelo": Star Automatic,
-  "ano": "2011",
-  "tamanho": "40mm",
-  "material": "caixa em aço e pulseira em couro",
-  "referencia": "7068",
-  "mecanismo": "Automatico",
-  "mostrador": "prata",
-  "verificado": "SIM",
-  "valor": "R$7.900"	
- }
+  {
+    "marca": "TagHeuer",
+    "modelo": "Formula 1",
+    "ano": "2015",
+    "tamanho": "42mm",
+    "material": "caixa e pulseira em aÃ§o",
+    "referencia": "WAH1011",
+    "mecanismo": "Quartzo",
+    "mostrador": "branco",
+    "verificado": "SIM",
+    "valor": "R$4.900",
+    "img": "https://i.imgur.com/x4uz5kG.png"
+  },
+  {
+    "marca": "0",
+    "modelo": "DIAGONO",
+    "ano": "2011",
+    "tamanho": "38mm",
+    "material": "caixa em aÃ§o e pulseira em borracha",
+    "referencia": "SD38SGMT",
+    "mecanismo": "Automatico",
+    "mostrador": "Preto",
+    "verificado": "SIM",
+    "valor": "R$10.500",
+    "img": "https://i.imgur.com/yr6QDzY.png"
+  },
+  {
+    "marca": "Rolex",
+    "modelo": "SEA-DWELLER",
+    "ano": "2012",
+    "tamanho": "44mm",
+    "material": "caixa e pulseira em aÃ§o",
+    "referencia": "116660",
+    "mecanismo": "Automatio",
+    "mostrador": "preto",
+    "verificado": "SIM",
+    "valor": "R$62.000",
+    "img": "https://i.imgur.com/2v0zbcj.png"
+  },
+  {
+    "marca": "TagHeuer",
+    "modelo": "CARRERA DATE",
+    "ano": "2007",
+    "tamanho": "41mm",
+    "material": "caixa e pulseira em aÃ§o",
+    "referencia": "CV2010",
+    "mecanismo": "Automatico",
+    "mostrador": "preto",
+    "verificado": "SIM",
+    "valor": "R$9.900",
+    "img": "https://i.imgur.com/JZ3t6Sd.png"
+  },
+  {
+    "marca": "BREITLING",
+    "modelo": "B-1 Professional",
+    "ano": "2006",
+    "tamanho": "43mm",
+    "material": "caixa em aÃ§o e pulseira em borracha",
+    "referencia": "A78362",
+    "mecanismo": "SuperQuartz",
+    "mostrador": "azul",
+    "verificado": "SIM",
+    "valor": "R$11.900",
+    "img": "https://i.imgur.com/SvTpGjW.jpg"
+  },
+  {
+    "marca": "MontBlanc",
+    "modelo": "Star Automatic",
+    "ano": "2011",
+    "tamanho": "40mm",
+    "material": "caixa em aÃ§o e pulseira em couro",
+    "referencia": "7068",
+    "mecanismo": "Automatico",
+    "mostrador": "prata",
+    "verificado": "SIM",
+    "valor": "R$7.900",
+    "img": "https://i.imgur.com/4HoyHlI.png"
+  }
+]
